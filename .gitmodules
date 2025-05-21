@@ -1,0 +1,9 @@
+[submodule "external/CompiledNN"]
+	path = external/CompiledNN
+	url = https://github.com/bhuman/CompiledNN
+[submodule "external/tvm"]
+	path = external/tvm
+	url = https://github.com/apache/tvm
+[submodule "external/tensorflow"]
+	path = external/tensorflow
+	url = https://github.com/tensorflow/tensorflow
