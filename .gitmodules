@@ -1,3 +1,6 @@
 [submodule "external/CompiledNN"]
 	path = external/CompiledNN
 	url = https://github.com/bhuman/CompiledNN
+[submodule "external/tensorflow"]
+	path = external/tensorflow
+	url = https://github.com/tensorflow/tensorflow
